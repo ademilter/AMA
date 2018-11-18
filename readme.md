@@ -8,4 +8,4 @@ Eposta üzerinden çok fazla soru alıyorum ve bu soruların neredeyse hepsi her
 - Destek ve teknik konular için Stack Overflow'u kullanın.
 - Soru sormadan önce empati yapın ve nazik olun.
 
-### [Soru sor :love_letter:](../../issues/new) &nbsp;&nbsp;&nbsp; [Soruları oku :speech_balloon:](https://github.com/ademilter/AMA/issues?q=is%3Aopen+is%3Aissue+label%3Acevapland%C4%B1)
+### [Soru sor :love_letter:](../../issues/new) &nbsp;&nbsp;&nbsp; [Cevap verilmişleri oku :speech_balloon:](https://github.com/ademilter/AMA/issues?q=is%3Aissue+label%3Acevapland%C4%B1+is%3Aclosed)
