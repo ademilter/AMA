@@ -9,3 +9,6 @@ Eposta üzerinden çok fazla soru alıyorum ve bu soruların neredeyse hepsi her
 - Soru sormadan önce empati yapın ve nazik olun.
 
 ### [Soru sor :love_letter:](../../issues/new) &nbsp;&nbsp;&nbsp; [Cevap verilmişleri oku :speech_balloon:](https://github.com/ademilter/AMA/issues?q=is%3Aissue+is%3Aclosed)
+
+
+Edited by gitfix
